@@ -15,7 +15,7 @@ int main()
 	}
 
 	//reversing
-	for(i=0;i<1011010size/2;i++)
+	for(i=0;i<size/2;i++)
 	{
 		temp=inputarray[i];
 		inputarray[i]=inputarray[size-i-1];
