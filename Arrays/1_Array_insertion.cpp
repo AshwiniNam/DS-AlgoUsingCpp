@@ -25,7 +25,7 @@ int main()
 		a[i+1]=a[i];
 	}
 	a[p-1]=num;
-	size++;
+	size++; //***Important***
 	
 	//printing the new array
 	for(i=0;i<size;i++)
